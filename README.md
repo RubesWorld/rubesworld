@@ -2,7 +2,7 @@
 aka The Rubenator aka Rube's World aka Ruby Tuesay aka Rube! 
 
 
-<img src="https://user-images.githubusercontent.com/51794934/113035197-d3f9c880-9147-11eb-8433-427d6c439419.jpg" >
+<img src="https://user-images.githubusercontent.com/51794934/113035456-1b805480-9148-11eb-93ad-b88075731675.jpg" >
 
 
 ### What's up!
