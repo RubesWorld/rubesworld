@@ -1,5 +1,5 @@
 ## Hey there, I'm Ruben Andres Ramirez
-aka The Rubenator aka Rube's World aka Ruby Tuesay aka Rube! 
+
 
 
 <img src="https://user-images.githubusercontent.com/51794934/113035456-1b805480-9148-11eb-93ad-b88075731675.jpg" >
