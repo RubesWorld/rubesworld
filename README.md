@@ -11,7 +11,8 @@ I made my way into the Technology industry via Sales, selling software engineeri
 ### About Me
 - 👨🏽‍💻 What I'm currently working on - [Family Promise Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
 - 🗺 I've lived in Milan, Italy and Barcelona, Spain and currently reside in Sunny California
-- 🥑 I practice intermittent fasting 
+- 🥑 I practice intermittent fasting (currently doing three 36-hour fast a week) 
+- 🔢 I heavily track my health (sleep hours, resting heart rate, calories, glucose levels) 
 - 🏁 Boundary pusher 
 
 ### My Stack
