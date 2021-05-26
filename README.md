@@ -20,7 +20,7 @@ Being able to take something from idea to live application is one of the most fu
 I enjoy talking to teammates and stakeholders alike, no matter their level, and ensuring communication is efficient, comfortable and strong. I envision myself contributing to the team on day one.  
 
 ### About Me
-- 👨🏽‍💻 What I'm currently working on: DigiVax, digital vaccine card 
+- 👨🏽‍💻 What I'm currently working on: Converting a Project, [Anywhere Fitness](https://github.com/Lambda-Anywhere-Fitness-BW/front-end), to Typescript and adding some cool features
 - 👍 The Project I'm proud of: [Family Promise Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
 - 🗺 I've lived in Milan, Italy and Barcelona, Spain and currently reside in Sunny California
 - 🥑 I practice intermittent fasting (currently doing three 36-hour fast a week) 
