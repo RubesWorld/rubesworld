@@ -20,9 +20,9 @@ Being able to take something from idea to live application is one of the most fu
 I enjoy talking to teammates and stakeholders alike, no matter their level, and ensuring communication is efficient, comfortable and strong. I envision myself contributing to the team on day one.  
 
 ### About Me
-- 👨🏽‍💻 What I'm currently working on: [Consensys Academy Blockchain Bootcamp](https://courses.consensys.net)
+- 👨🏽‍💻 What I'm currently working on: Internal Tools for my Demo Engineering Team at Talkdesk
 - 👍 The Project I'm proud of: [Family Promise Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
-- 🗺 I've lived in Milan, Italy and Barcelona, Spain and currently reside in Sunny California
+- 🗺 I've lived in Milan, Italy and Barcelona, Spain and currently reside in the ever so wonderful concrete jungle, New York City.
 - 🥑 I practice intermittent fasting (currently doing three 36-hour fast a week) 
 - 🔢 I heavily track my health (sleep hours, resting heart rate, calories, glucose levels) 
 - 🏁 Boundary pusher 
