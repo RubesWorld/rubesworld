@@ -23,7 +23,7 @@ I enjoy talking to teammates and stakeholders alike, no matter their level, and 
 - 👨🏽‍💻 What I'm currently working on: Internal Tools for my Demo Engineering Team at Talkdesk
 - 👍 The Project I'm proud of: [Family Promise Service Tracker](https://github.com/Lambda-School-Labs/family-promise-service-tracker-fe-a)
 - 🗺 I've lived in Milan, Italy and Barcelona, Spain and currently reside in the ever so wonderful concrete jungle, New York City.
-- 🥑 I practice intermittent fasting (currently doing three 36-hour fast a week) 
+- 🥑 I practice intermittent fasting (currently doing a 20 hour fast with 4 hour eating window) 
 - 🔢 I heavily track my health (sleep hours, resting heart rate, calories, glucose levels) 
 - 🏁 Boundary pusher 
 
